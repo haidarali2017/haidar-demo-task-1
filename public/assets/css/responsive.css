@@ -1,0 +1,913 @@
+@media all and (min-width: 1320px) {
+  .extra-container {
+    max-width: 1760px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 0 20px;
+  }
+}
+@media all and (min-width: 992px) {
+  .nav {
+    display: block !important;
+  }
+  .nav ul {
+    display: flex !important;
+  }
+}
+@media all and (max-width: 1500px) {
+  .empower-area:after {
+    top: -180px;
+
+    height: 22%;
+  }
+  .single-empower-card h3 {
+    padding: 20px 0 15px 0;
+  }
+  .empower-icon {
+    width: 74px;
+    height: auto;
+  }
+  .ecm-card {
+    padding: 30px 30px 30px 30px;
+  }
+  .ecm-card h3 {
+    font-size: 31px;
+    line-height: 32px;
+    padding-bottom: 15px;
+  }
+  .ecm-card p {
+    font-size: 22px;
+    line-height: 29px;
+  }
+  #lottie-empower {
+    height: 1252px;
+    bottom: 6px;
+    left: 68px;
+  }
+  .col-xl-3:nth-child(even) .single-empower-card {
+    transform: translateY(-52px);
+  }
+}
+@media all and (max-width: 1400px) {
+  h1 {
+    font-size: 46px;
+    line-height: 54px;
+  }
+  .single-empower-card h3 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #ffffff;
+    padding: 14px 0 11px 0;
+  }
+  .ecm-card p {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  #lottie-empower {
+    height: 1252px;
+    bottom: -35px;
+    left: 130px;
+    width: 90%;
+  }
+  .col-xl-3:nth-child(2n) .single-empower-card {
+    transform: translateY(-85px);
+  }
+  /* .hero-bg img {
+    top: -174px;
+  } */
+  .single-empower-card {
+    padding: 20px 20px;
+  }
+  .single-ecosystem-card {
+    padding: 20px 25px;
+  }
+  .unlock-card {
+    padding: 20px;
+  }
+  .unlock-card.unlock-card3 {
+    padding: 15px;
+  }
+  .unlock-card-title h3 {
+    font-size: 20px;
+  }
+  .unlock-card-sub .hero-btn {
+    padding: 20px 25px;
+  }
+}
+@media all and (max-width: 1370px) {
+  #lottie-empower {
+    height: 1252px;
+    bottom: -31px;
+    left: 110px;
+    width: 93%;
+  }
+  .col-xl-3:nth-child(2n) .single-empower-card {
+    transform: translateY(-84px);
+  }
+}
+@media all and (max-width: 1350px) {
+  #lottie-empower {
+    height: 1258px;
+    bottom: -40px;
+    left: 100px;
+    width: 94%;
+  }
+  .col-xl-3:nth-child(2n) .single-empower-card {
+    transform: translateY(-81px);
+  }
+}
+
+@media all and (max-width: 1320px) {
+  .construction-wrapper {
+    background-position: left;
+  }
+
+  .social-links li a {
+    width: 38px;
+    height: 38px;
+    font-size: 16px;
+  }
+  .social-links {
+    gap: 6px;
+  }
+  .col-xl-3:nth-child(2n) .single-empower-card {
+    transform: translateY(-86px);
+  }
+  #lottie-empower {
+    height: 1258px;
+    bottom: -38px;
+    left: 84px;
+    width: 96%;
+  }
+}
+@media all and (max-width: 1310px) {
+  #lottie-empower {
+    height: 1258px;
+    bottom: -38px;
+    left: 84px;
+    width: 96%;
+  }
+}
+@media all and (max-width: 1250px) {
+  #lottie-empower {
+    height: 1373px;
+    bottom: -100px;
+    left: 53px;
+    width: 101%;
+  }
+
+  .col-xl-3:nth-child(even) .single-empower-card {
+    transform: translateY(-75px);
+  }
+}
+@media all and (max-width: 1220px) {
+  #lottie-empower {
+    height: 1373px;
+    bottom: -97px;
+    left: 36px;
+    width: 104%;
+  }
+}
+@media all and (min-width: 1200px) {
+  #lottie-empower {
+    display: block !important;
+  }
+}
+@media all and (max-width: 1199px) {
+  .box {
+ 
+    padding: 10px 18px;
+    border-radius: 8px;
+ 
+}
+.box span {
+    font-size: 30px;
+text-align: center;
+  }
+    .maintenance-content h1 {
+    font-size: 26px;
+}
+.counter-section h5 {
+    font-size: 18px;
+    margin-top:30px;
+    margin-bottom: 20px;
+}
+.box label {
+    font-size: 15px;
+  text-align: center;
+}
+.maintenance-content p{
+  font-size: 15px;
+  line-height: 22px;
+}
+  #lottie-empower {
+    display: none;
+  }
+  .construction-area {
+    padding-top: 30px;
+  }
+
+  .nav ul {
+    gap: 0 34px;
+  }
+  .hero-card {
+    padding: 18px;
+    border-radius: 3px;
+  }
+  .footer-content {
+    gap: 25px;
+  }
+  .holding-content {
+    transform: translateY(70px);
+  }
+  #lottie-empower {
+    height: 1258px;
+    bottom: 254px;
+    left: 34px;
+    width: 92%;
+  }
+  .empower-area {
+    padding: 70px 0 100px 0;
+  }
+  h2 {
+    font-size: 32px;
+    line-height: 36px;
+  }
+  p {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .launch-animation img {
+    width: 54px;
+  }
+  .launch-animation p {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .launch-animation {
+    padding: 15px;
+  }
+  .launch-animation {
+    width: 115px;
+  }
+  .launch-animation img {
+    width: 43px;
+  }
+  .empower-top {
+    padding-bottom: 173px;
+  }
+
+  .empower-image-flip img {
+    width: 100%;
+    position: inherit;
+    left: 34px;
+    top: 0;
+  }
+  .col-xl-3:nth-child(odd) .single-empower-card {
+    transform: translateY(-32px);
+  }
+  .unlock-card-main {
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+  .unlock-card {
+    margin-right: 00px;
+    flex: 0 0 100%;
+  }
+  .unlock-card.unlock-card2 {
+    transform: translateY(0px);
+  }
+  .unlock-card {
+    padding: 30px 15px;
+  }
+  .unlock-card-title h3 {
+    font-size: 24px;
+  }
+  .vector-animation1 svg,
+  .vector-animation2 svg,
+  .vector-animation3 svg {
+    display: none;
+  }
+  .unlock-btn-wrapper {
+    padding-bottom: 31px;
+  }
+  .ecm-area {
+    padding-top: 100px;
+  }
+  .hero-card1,
+  .hero-card2 {
+    top: 53%;
+  }
+.ecosystem-icon img {
+    /* display: none; */
+    max-width: 100px;
+    opacity: 0.2;
+}
+}
+
+@media all and (max-width: 1024px) {
+  .hero-animation {
+    bottom: 54%;
+  }
+
+}
+@media all and (max-width: 991px) {
+  .flip-card-current {
+    font-size: 32px;
+    line-height: 30px;
+  }
+  .timer-label {
+    font-size: 22px;
+    line-height: 28px;
+  }
+  .construction-social {
+    padding-top: 40px;
+  }
+  .small-shadow {
+    border-left: 146px solid transparent;
+    border-right: 123px solid transparent;
+    border-top: 750px solid #2a87ff3b;
+  }
+  .timer-flip-header h3 {
+    font-size: 38px;
+  }
+  .construction-logo a img {
+    width: 185px;
+  }
+  .nav ul {
+    gap: 30px;
+  }
+  .logo {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .construction-logo {
+    display: flex;
+    justify-content: center !important;
+  }
+  .nav {
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 100%;
+    background-color: #10131c;
+    padding: 20px;
+    -webkit-box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: #ffbe38 0px 2px 5px;
+    backdrop-filter: blur(17px);
+    -webkit-backdrop-filter: blur(17px);
+    display: none;
+    opacity: 0;
+    -webkit-transition: opacity 0.5s ease;
+    -o-transition: opacity 0.5s ease;
+    backdrop-filter: blur(20px);
+    transition: opacity 0.5s ease;
+    opacity: 0;
+    border-radius: 10px;
+  }
+  .nav.show {
+    display: block;
+    opacity: 1;
+  }
+  .extra-container {
+    position: relative;
+  }
+  .hero-card1 {
+    left: 52px;
+  }
+  .hero-card2 {
+    right: 52px;
+  }
+  .hero-btn {
+    padding: 15px 50px;
+    border-radius: 7px;
+  }
+  .hero-btn::before {
+    border-radius: 7px;
+  }
+  .logo img {
+    width: 200px;
+  }
+  .footer-content {
+    flex-direction: column;
+    gap: 40px;
+  }
+  .footer-left-email {
+    padding-top: 15px;
+  }
+  .footer-right-bottom {
+    padding-top: 20px;
+  }
+  .launch-right {
+    padding-left: 0px;
+  }
+  .hero-card1 {
+    top: 60%;
+  }
+  .hero-card2 {
+    top: 60%;
+  }
+  .ecm-area {
+    padding: 80px 0 100px 0px 0;
+  }
+  .holding-content {
+    transform: translateY(60px);
+  }
+  .single-ecosystem-card {
+    padding: 20px 20px;
+    border-radius: 6px;
+  }
+  .single-ecosystem-card::before {
+    border-radius: 7px;
+  }
+  .single-ecosystem-card img {
+    width: 81px;
+    height: auto;
+  }
+  .ecosystem-card-desc {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    padding: 11px 0;
+    padding-top: 0;
+  }
+  .ecosystem-btn-wrapper .hero-btn {
+    padding: 9px 44px;
+    border-radius: 2px;
+  }
+  .ecosystem-btn-wrapper .hero-btn::before {
+    border-radius: 4px;
+  }
+  .blockchain-video video {
+    height: 57%;
+  }
+  .blockchain-area {
+    padding: 143px 0 187px 0;
+  }
+  .holding-head-text p {
+    padding: 17px 0 20px 0;
+  }
+  p {
+    line-height: 26px;
+  }
+  h2 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+  .launch-left {
+    max-width: 496px;
+    margin: auto;
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  .empower-area {
+    padding: 15px 0 28px 0;
+  }
+  .vector-animation1 svg,
+  .vector-animation2 svg,
+  .vector-animation3 svg {
+    display: none;
+  }
+  .unlock-card-main {
+    gap: 25px;
+  }
+  .empower-image-flip img {
+    left: 0;
+  }
+  .empower-area:after {
+    background-size: cover;
+    background-position: center center;
+  }
+  .single-empower-card-1,
+  .single-empower-card-3 {
+    margin-top: 0px;
+  }
+  .ecm-card {
+    padding: 15px;
+  }
+  .ecm-card h3 {
+    font-size: 24px;
+    line-height: 26px;
+  }
+}
+
+@media all and (max-width: 768px) {
+  .hero-animation {
+    bottom: 50%;
+  }
+  .construction-area {
+    padding-top: 20px;
+  }
+  h1 {
+    font-size: 37px;
+    line-height: 40px;
+  }
+  p {
+    font-size: 16px;
+  }
+
+  .timer-number {
+    padding-bottom: 2px;
+  }
+  .timer-block::after {
+    bottom: -21px;
+  }
+  .timer-block {
+    border-radius: 8px;
+    padding: 10px;
+  }
+  .timer-flip-header h3 {
+    font-size: 32px;
+    padding-bottom: 20px;
+  }
+  .small-shadow {
+    transform: rotate(-17deg);
+    border-left: 32px solid transparent;
+    border-right: 62px solid transparent;
+    border-top: 297px solid #2a87ff3b;
+    top: 0;
+    left: 20%;
+  }
+  .ecm-card {
+    padding: 30px 15px;
+  }
+  .ecm-card p {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .ecm-head-text h2 {
+    font-size: 36px;
+    line-height: 44px;
+  }
+  .ecm-head-text p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .construction-description {
+    padding-top: 20px;
+    gap: 27px;
+  }
+  .construction-logo a img {
+    width: 150px;
+  }
+  .header-area {
+    padding: 15px 0;
+  }
+  .construction-social {
+    padding-top: 25px;
+  }
+  .hero-area {
+    padding: 120px 0;
+    padding-top: 30px;
+  }
+  .hero-card1 {
+    top: 50%;
+  }
+  .hero-card2 {
+    top: 50%;
+  }
+  .hero-title p {
+    margin-top: 10px !important;
+    font-size: 15px;
+  }
+  .hero-card p {
+    font-size: 20px;
+    text-align: center;
+  }
+  .hero-card {
+    padding: 9px 12px;
+  }
+  .hero-text {
+    line-height: 12px !important;
+  }
+  .hero-text {
+    padding: 12px 0 40px 0;
+  }
+
+  .ecm-area {
+    padding: 80px 0 70px 0;
+  }
+  .holding-content {
+    transform: translateY(40px);
+  }
+  .col-xl-3:nth-child(2n + 1) .single-empower-card {
+    transform: translateY(0px);
+  }
+  .col-xl-3:nth-child(2n) .single-empower-card {
+    transform: translateY(0px);
+  }
+  .empower-top {
+    padding-bottom: 172px;
+  }
+
+  .ecm-area {
+    padding: 40px 0 70px 0;
+  }
+  .ecm-head-text {
+    padding-bottom: 27px;
+  }
+  .empower-icon {
+    width: 58px;
+  }
+  .launch-animation img {
+    width: 35px;
+  }
+  .launch-animation {
+    padding: 10px 5px;
+    width: 84px;
+    gap: 10px;
+    border-radius: 6px;
+  }
+  .launch-animation p {
+    font-size: 11px;
+    line-height: 16px;
+  }
+  .launch-right p {
+    padding-top: 10px;
+  }
+  .launch-right a {
+    margin-top: 40px;
+  }
+  .footer-content {
+    padding-bottom: 30px;
+  }
+  .empower-head-text h2 {
+    padding-bottom: 20px;
+  }
+  .hero-animation-1 img {
+    width: 134px;
+    top: 75%;
+  }
+  .hero-animation-2 img {
+    width: 134px;
+    top: 60%;
+  }
+  .hero-animation-3 img {
+    width: 134px;
+    top: 51%;
+  }
+  .hero-animation-4 img {
+    width: 134px;
+    top: 51%;
+  }
+  .hero-animation-5 img {
+    width: 134px;
+    top: 51%;
+  }
+  .hero-animation-6 img {
+    width: 134px;
+    top: 55%;
+  }
+  .unlock-card-title h3 {
+    font-size: 20px;
+  }
+  .unlock-card-text ul li {
+    font-size: 14px;
+  }
+  .hero-btn span {
+    font-size: 16px;
+  }
+  .unlock-card-sub {
+    gap: 15px;
+    padding-top: 15px;
+  }
+  .unlock-card-text ul {
+    padding-top: 10px;
+    gap: 3px;
+  }
+  .single-empower-card {
+    padding: 20px 15px;
+  }
+  .empower-icon {
+    max-height: 48px;
+  }
+  .ecosystem-card-text span {
+    font-size: 15px;
+    line-height: 26px;
+  }
+}
+
+@media all and (max-width: 575px) {
+  .email-box{
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  .launch-animation2 {
+    bottom: 50px;
+    left: 12px;
+  }
+  .launch-animation4 {
+    bottom: 86px;
+    right: 10px;
+  }
+  .launch-animation1 {
+    left: 16px;
+  }
+  .toplight {
+    display: none;
+  }
+  p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .construction-wrapper {
+    height: auto;
+  }
+  .timer-block {
+    max-width: 120px;
+    flex-shrink: 1;
+  }
+  .construction-description {
+    gap: 2px;
+  }
+  .ecm-head-text h2 {
+    font-size: 22px;
+    line-height: 22px;
+  }
+  .construction-area {
+    padding-top: 10px;
+  }
+  .construction-text p {
+    padding-top: 10px;
+    padding-bottom: 7px;
+  }
+  h1 {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .timer-blocks {
+    padding-top: 20px;
+  }
+  .container {
+    max-width: 94%;
+    width: 100%;
+    margin: auto;
+  }
+  .timer-flip-header h3 {
+    font-size: 26px;
+    line-height: 30px;
+    padding-bottom: 5px;
+  }
+  .construction-description {
+    padding-top: 5px;
+    padding-bottom: 6px;
+  }
+  .construction-logo a img {
+    width: 135px;
+  }
+  .hero-btn {
+    padding: 12px 34px;
+    border-radius: 7px;
+  }
+  .hero-card1 {
+    top: 47%;
+    left: 31px;
+  }
+  .hero-card2 {
+    top: 47%;
+    right: 31px;
+  }
+  .holding-content {
+    transform: translateY(24px);
+  }
+  .ecm-area {
+    padding: 30px 0 50px 0;
+  }
+  h2 {
+    font-size: 24px;
+    line-height: 140%;
+  }
+  .holding-head-text p {
+    padding: 12px 0 20px 0;
+  }
+  .ecm-card h3 {
+    font-size: 20px;
+    line-height: 27px;
+    padding-bottom: 8px;
+  }
+  .ecm-card p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .empower-top {
+    padding-bottom: 50px;
+  }
+  .ecm-card {
+    padding: 20px;
+    text-align: center;
+  }
+  .blockchain-card-desc p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .blockchain-card-desc {
+    padding-top: 22px;
+  }
+  .blockchain-card-icon > h3 {
+    font-size: 18px;
+    line-height: 25px;
+  }
+  .blockchain-video video {
+    height: 25%;
+    width: 150%;
+    top: 163px;
+    left: -156px;
+    z-index: -1;
+  }
+  .blockchain-area {
+    padding: 53px 0 90px 0;
+  }
+  .btn-1 {
+    padding: 10px 26px;
+    border-radius: 4px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .launch-right a {
+    margin-top: 26px;
+  }
+  .footer-right-bottom p {
+    text-align: justify;
+    font-size: 8px;
+    line-height: 12px;
+  }
+  .footer-content {
+    padding-bottom: 20px;
+  }
+  .copyright-content {
+    font-size: 14px;
+    line-height: 24px;
+    padding: 15px 0 15px 0;
+  }
+  .footer-links li a {
+    font-size: 14px;
+    line-height: 20px;
+    padding: 3px 0;
+  }
+  .footer-left-contact h3 {
+    font-size: 20px;
+    line-height: 28px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+  }
+  .launch-area {
+    padding-bottom: 61px;
+  }
+  .ecosystem-area {
+    padding-top: 73px;
+  }
+  .empower-icon {
+    width: 50px;
+  }
+  .single-empower-card h3 {
+    padding: 10px 0 10px 0;
+  }
+  .empower-head-text h2 {
+    padding-bottom: 15px;
+  }
+  .logo img {
+    width: 170px;
+  }
+  .hero-bg img {
+    top: -315px;
+  }
+
+  .hero-btn span {
+    font-size: 14px;
+  }
+  .hero-animation {
+    bottom: 55%;
+  }
+  .empower-area:before {
+    background-size: cover;
+    top: -22%;
+  }
+  .countdown {
+    gap: 8px;
+  }
+}
+@media all and (max-width: 480px) {
+  h1 {
+    font-size: 29px;
+    line-height: 31px;
+  }
+  .footer-left-contact h3 {
+    font-size: 18px;
+  }
+  .hero-animation {
+    bottom: 40%;
+  }
+  .hero-card1,
+  .hero-card2 {
+    top: 54%;
+  }
+  
+}
+@media all and (max-width: 430px) {
+  .hero-animation {
+    bottom: 52%;
+  }
+}
