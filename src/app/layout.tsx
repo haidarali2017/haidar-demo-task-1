@@ -6,6 +6,7 @@ import Script from 'next/script';
 import '/public/assets/css/style.css';
 import '/public/assets/css/responsive.css';
 import '/public/assets/fonts/stylesheet.css';
+import Header from "./components/Header";
 
  
 
@@ -48,6 +49,7 @@ export default function RootLayout({
         />
       </head>
       <body>
+         <Header />
         {children}
 
           {/* Bootstrap JS */}
